@@ -1,0 +1,4 @@
+THE code is designed to read the input passscode without showcasing it on the screen for privacy
+IF the passcode is correct , then the access is granted and if  otherwise, it is denied
+I have tested it on my arduino projects and it works prfectly
+#lets make it happen together
